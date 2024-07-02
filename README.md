@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riqueft
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Python as my first language
-- 💞️ I’m looking to collaborate on Analytic projects
+- 💞️ I’m looking to collaborate on Analytics projects
 - 📫 How to reach me by email or instagram @riqueft
 - ⚡ Fun fact: I'm also a baker and I love to mod watchs!
 
